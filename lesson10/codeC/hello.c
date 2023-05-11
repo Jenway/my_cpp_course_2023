@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <omp.h>
-#define LEN 100000
+#define LEN 100
 
 int main(void)
 {
